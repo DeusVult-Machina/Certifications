@@ -1,14 +1,15 @@
-# Certifications/
-│
-├── README.md
-│
-├── NetworkPlus/
-│   ├── certificate.pdf
-│   └── details.md
-│
-├── Google-IT-Support/
-│   ├── certificate.pdf
-│   └── details.md
-│
-└── resume/
-    └── Jihad_Cooper_Resume.pdf
+# Professional Certifications – Jihad Cooper
+
+This repository contains my professional certifications and ongoing technical training.
+
+## Active Certifications
+- CompTIA Security+ – Issued 2025
+
+## In Progress
+- CompTIA Network+ (Expected 2026)
+
+## Focus Areas
+- Networking
+- Systems Administration
+- IT Support
+- Cybersecurity Fundamentals
