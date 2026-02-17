@@ -7,6 +7,7 @@ This repository contains my professional certifications and ongoing technical tr
 
 ## In Progress
 - CompTIA Network+ (Expected 2026)
+- Oracle Java Foundations (Expected March 20, 2026)
 
 ## Focus Areas
 - Networking
